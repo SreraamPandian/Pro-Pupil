@@ -64,7 +64,7 @@ const StudentDetails = () => {
         deviceId: "H00479448", 
         regNo: "H00479448", 
         admNo: "H00479448", 
-        name: "Mr. Musallam Saeed Salem Mohamed Alameri", 
+        name: "Mr. Musallam Saeed Dubai Mohamed Alameri", 
         year: "202520", 
         photo: <div className="w-8 h-8 rounded-full bg-slate-200 flex items-center justify-center text-slate-400"><Users size={16} /></div>,
         gender: "Male",

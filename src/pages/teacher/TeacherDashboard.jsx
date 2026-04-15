@@ -57,7 +57,7 @@ const TeacherDashboard = () => {
             Active Session Context
           </div>
           <h1 className="text-5xl font-black text-slate-900 tracking-tighter">
-            Salem, <span className="text-blue-600 font-medium italic">{teacherName}</span>
+            Dubai, <span className="text-blue-600 font-medium italic">{teacherName}</span>
           </h1>
           <p className="text-slate-400 font-bold text-sm tracking-widest uppercase mt-1">{today}</p>
         </div>
